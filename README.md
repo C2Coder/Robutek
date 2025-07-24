@@ -1,4 +1,4 @@
-TES
+TEST
 
 # 🖍️ Robůtek
 
