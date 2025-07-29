@@ -1,4 +1,4 @@
-STTEST
+ESTTEST
 
 # 🖍️ Robůtek
 
